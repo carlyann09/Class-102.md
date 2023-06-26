@@ -1,4 +1,5 @@
 # Reading Notes for 102 
+##Table of Contents
 - [ Class 1](Class-1.md)
 - [ Class 2](Class-2.md)
 - [ Class 3](Class-3.md)
