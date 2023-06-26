@@ -13,7 +13,7 @@ Three reminders to myself on how to keep a growth mindset:
 -Challenges make you better, don't give up. 
 
 
-1. Markdown is a markup language.
+1. Markdown is a markup language. 
 2. We use markdown to add formatting to documents. You can make headings bigger/smaller, bold/italicize words, list words/sentences, link documents and pictures. 
 3. The # symbol will create a heading un markdown. 
     1. To create the largest heading, you will use one #. 
