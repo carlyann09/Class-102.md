@@ -1,5 +1,18 @@
 [Notes for Class 1](/Class-1.md)
 
+https://carlyann09.github.io/reading-notes/Links to an external site.
+
+A person who has a growth mindset believes that with time and effort, they will succeed. They look at challenges and obstacles as opportunities to get better, they put in large amounts of effort, learn from their mistakes, and are inspired by others. 
+
+Three reminders to myself on how to keep a growth mindset: 
+
+-Don't be discouraged when things aren't going well, take a break and then work through the problem. 
+
+-I can learn and get better from the people around me, it is not a competition. 
+
+-Challenges make you better, don't give up. 
+
+
 1. Markdown is a markup language.
 2. We use markdown to add formatting to documents. You can make headings bigger/smaller, bold/italicize words, list words/sentences, link documents and pictures. 
 3. The # symbol will create a heading un markdown. 
