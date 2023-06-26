@@ -1,1 +1,1 @@
-[Contribution guidelines for this project](/Class-1.md)
+[Notes for Class 1](/Class-1.md)
