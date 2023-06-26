@@ -12,13 +12,13 @@
    - pwd: print work directory. Shows a current working directory 
    - ls: lists contents of directory
    - cd: change directory/ move to a new directory
-   - mkdir:
-   - touch:
+   - mkdir: makes folder in directory
+   - touch: create a file in folder
 
 ## 3. Can you explain what is happening in the following senario if these commands and arguments are entered into the command line? (arguments are extra instructions given to a command)
-- cd projects: 
-- mkdir new project: creates project/file
-- touch new-project./newfile.md: 
-- cd..: go up in directory
-- ls project/new-project= list projects/files
+- cd projects: shows directories
+- mkdir new project: creates project
+- touch new-project./newfile.md: creates a file w/in the project
+- cd..: go up and out of the project
+- ls project/new-project= lists/shows projects and files 
   
