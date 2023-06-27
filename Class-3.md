@@ -22,7 +22,7 @@ Use-
 
 ## Command to take a snapshot of changed files:
 
-*Git command -m '        '*
+*Git commit -m '        '*
 
 
 ## Command to send files to GIThub:
