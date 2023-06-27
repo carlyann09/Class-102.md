@@ -14,6 +14,7 @@
 
 ## What is a sematntic element?
  The meaning of a piece of code. What effect/purpose does that element have?
-   - HTML: h1 is a semantic element
-  - CSS:  li 
-  - JS: <li> 
+ 
+- HTML: h1 is a semantic element
+- CSS:  li
+- JS: <li> 
